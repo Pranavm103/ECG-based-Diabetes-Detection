@@ -1,0 +1,8 @@
+flask
+gradio
+tensorflow
+numpy
+pandas
+scikit-learn
+requests
+pyserial
